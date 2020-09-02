@@ -1,16 +1,18 @@
-### Hi there 👋
+### Contact ✉️
+If you are a student of mine, please contact me via my MSU email address. All other inquiries may be sent to my default.
 
-<!--
-**braedynl/braedynl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Default: braedynlettinga@gmail.com
 
-Here are some ideas to get you started:
+Students: letting4@msu.edu
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Schedule 🗓️
+Want a quicker response? Here is my current schedule:
+
+| Timeslot        | Sunday | Monday        | Tuesday   | Wednesday | Thursday | Friday   | Saturday |
+| :---:           | :---:  | :---:         | :---:     | :---:     | :---:    | :---:    | :---:    |
+| 09:00AM-10:00AM |        | Staff Meeting |           |           |          |          |          |
+| 10:20AM-11:40AM |        |               | CSE331    |           | CSE331   |          |          |
+| 12:40PM-02:00PM |        | MTH314        | CSE320    | MTH314    | CSE320   |          |          |
+| 12:40PM-02:30PM |        |               |           |           |          | Teaching |          |
+| 05:20PM-06:10PM |        | STT351        |           | STT351    | STT351   |          |          |
+| 06:00PM-08:30PM |        |               | Help-Room |           |          |          |          |
