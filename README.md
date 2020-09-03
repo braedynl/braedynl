@@ -8,7 +8,7 @@ If you are a student of mine, please contact me via my @msu.edu address. All oth
 - Student: letting4@msu.edu
 
 ### Schedule 🗓️
-Below are times that I am unavailable. I'll *usually* get back to you within a few hours if you email me within a vacant timeslot.
+Below are times that I am unavailable. I'll *usually* get back to you quickly if you email me within a vacant timeslot.
 
 | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
 | :---:  | :---:  | :---:   | :---:     | :---:    | :---:  | :---:    |
