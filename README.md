@@ -1,6 +1,6 @@
 ### Links 🔗
 - [LinkedIn](https://www.linkedin.com/in/braedynl/)
-- [Twitter](https://twitter.com/__braedynl)
+- [Twitter](https://twitter.com/__braedynl) (I don't use social media that much)
 
 ### Contact ✉️
 If you are a student of mine, please contact me via my @msu.edu address. All other inquiries may be sent to my @gmail.com address.
