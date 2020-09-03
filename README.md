@@ -10,8 +10,8 @@ As a TA, I host weekly class meetings with 20 or so students, ranging from fresh
 
 ### Contact ✉️
 If you are a student of mine, please contact me via my @msu.edu address. All other inquiries may be sent to my @gmail.com address.
-- Default: braedynlettinga@gmail.com
-- Student: letting4@msu.edu
+- braedynlettinga@gmail.com
+- letting4@msu.edu
 
 ### Occupancy 🗓️
 Below are times where I am unavailable. I'll *usually* get back to you faster if you email me within a vacant timeslot.
