@@ -18,3 +18,7 @@ Below are times that I am unavailable. I'll *usually* get back to you quickly if
 || 05:20-06:10PM  | 06:00-08:30PM |               | 05:20-06:10PM |||
 
 **Note that this may not always be 100% accurate.*
+
+### Maintenance 🖥️
+
+Project development is currently slow due to University work. [CSE231-GITHUB](https://github.com/braedynl/CSE231-GITHUB) is actively maintained during this time. 
