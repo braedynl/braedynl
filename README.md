@@ -1,4 +1,5 @@
 ### Links 🔗
+- [Personal Website](https://braedynl.github.io/)
 - [LinkedIn](https://www.linkedin.com/in/braedynl/)
 - [Twitter](https://twitter.com/__braedynl) (I don't use social media that much)
 
