@@ -16,6 +16,4 @@ Below are times that I am unavailable. I'll *usually* get back to you within a f
 || 12:40-02:00PM  | 12:40-02:00PM | 05:20-06:10PM | 12:40-02:00PM |||
 || 05:20-06:10PM  | 06:00-08:30PM |               | 05:20-06:10PM |||
 
-**There is one unlisted class on this schedule (MI349). My research is also unlisted.*
-
-**Note that this schedule may not always be 100% accurate.*
+**Note that this may not always be 100% accurate.*
