@@ -22,6 +22,8 @@ Below are times where I am unavailable. I'll *usually* get back to you faster if
 || 12:40-02:00PM  | 12:40-02:00PM | 05:20-06:10PM | 12:40-02:00PM |||
 || 05:20-06:10PM  | 06:00-08:30PM |               | 05:20-06:10PM |||
 
+**Slots are in Eastern Standard Time.*
+
 **Note that this may not always be 100% accurate.*
 
 ### Maintenance 🖥️
