@@ -19,8 +19,8 @@ Below are times where I am unavailable. I'll *usually* get back to you faster if
 | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
 | :---:  | :---:  | :---:   | :---:     | :---:    | :---:  | :---:    |
 || 09:00-10:00AM  | 10:20-11:40AM | 12:40-02:00PM | 10:20-11:40AM | 12:40-2:30PM ||
-|| 12:40-02:00PM  | 12:40-02:00PM | 05:20-06:10PM | 12:40-02:00PM |||
-|| 05:20-06:10PM  | 06:00-08:30PM |               | 05:20-06:10PM |||
+|| 12:40-02:00PM  | 12:40-02:00PM | 03:30-05:00PM | 12:40-02:00PM |||
+|| 05:20-06:10PM  | 06:00-08:30PM | 05:20-06:10PM | 05:20-06:10PM |||
 
 **Slots are in Eastern Standard Time.*
 
