@@ -6,7 +6,6 @@ As a TA, I host weekly class meetings with 20 or so students, ranging from fresh
 ### Links 🔗
 - [Personal Website](https://braedynl.github.io/)
 - [LinkedIn](https://www.linkedin.com/in/braedynl/)
-- [Twitter](https://twitter.com/__braedynl) (I don't use social media that much)
 
 ### Contact ✉️
 If you are a student of mine, please contact me via my @msu.edu address. All other inquiries may be sent to my @gmail.com address.
