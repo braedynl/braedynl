@@ -1,7 +1,7 @@
 ### About 💬
 I currently work as a teaching assistant for Michigan State University's CSE231 - Introduction to Programming course (Python) under the supervision of [Dr. Richard Enbody](https://www.cse.msu.edu/~enbody/) and [Dr. Imen Zaabar](https://www.egr.msu.edu/people/profile/zaabarim). I research media psychology with [Dr. David Ewoldsen](https://comartsci.msu.edu/our-people/david-ewoldsen).
 
-As a TA, I host weekly class meetings with 20 or so students, ranging from freshman to senior level. The course has some weekly lecture videos and readings, where I then supplement with my own "mini-lecture" and class exercise. Outside of class meetings, we monitor a forum to answer students questions as they complete their homework assignments — usually consisting of a weekly project and coding challenge. I've been working as a TA since the beginning of 2020. I do Fall, Spring and Summer semesters. It's far and away the greatest job I've had, I love talking with my students and helping them learn 😁
+As a TA, I host weekly class meetings with 20 or so students, ranging from freshman to senior level. The course has some weekly lecture videos and readings, where I then supplement with my own "mini-lecture" and class exercise. Outside of class meetings, we monitor a forum to answer students questions as they complete their homework assignments — usually consisting of a weekly project and set of coding challenges. I've been working as a TA since the beginning of 2020. I do Fall, Spring and Summer semesters. It's far and away the greatest job I've had, I love talking with my students and helping them learn! 😁
 
 ### Links 🔗
 - [Personal Website](https://braedynl.github.io/)
@@ -21,7 +21,7 @@ Below are times where I am unavailable. I'll *usually* get back to you faster if
 || 12:40-02:00PM  | 12:40-02:00PM | 03:30-05:00PM | 12:40-02:00PM |||
 || 05:20-06:10PM  | 06:00-08:30PM | 05:20-06:10PM | 05:20-06:10PM |||
 
-**Slots are in Eastern Standard Time.*
+**Slots are in US Eastern Time.*
 
 **Note that this may not always be 100% accurate.*
 
