@@ -1,5 +1,5 @@
 ### About 💬
-I currently work as a teaching assistant for Michigan State University's CSE231 - Introduction to Programming course (Python) under the supervision of [Dr. Richard Enbody](https://www.cse.msu.edu/~enbody/) and [Dr. Imen Zaabar](https://www.egr.msu.edu/people/profile/zaabarim). I research media psychology with [Dr. David Ewoldsen](https://comartsci.msu.edu/our-people/david-ewoldsen).
+I currently work as a teaching assistant for Michigan State University's CSE231 - Introduction to Programming (Python) course under the supervision of [Dr. Richard Enbody](https://www.cse.msu.edu/~enbody/) and [Dr. Imen Zaabar](https://www.egr.msu.edu/people/profile/zaabarim). I research media psychology with [Dr. David Ewoldsen](https://comartsci.msu.edu/our-people/david-ewoldsen).
 
 ### Contact ✉️
 If you are a student of mine, please contact me via my @msu.edu address. All other inquiries may be sent to my @gmail.com address.
