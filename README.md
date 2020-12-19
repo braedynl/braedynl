@@ -18,7 +18,3 @@ Below are times where I am unavailable. I'll *usually* get back to you faster if
 **Slots are in US Eastern Time.*
 
 **Schedule reflects occupancy during __most__ weeks, it can vary*
-
-### Maintenance 🖥️
-
-Project development is currently slow due to University work. [CSE231-GITHUB](https://github.com/braedynl/CSE231-GITHUB) is actively maintained during this time. 
